@@ -1,4 +1,4 @@
-Pavel robotic toothbrush
+Kavel robotic toothbrush
 
 This toothbrush is safe for animals, adults and children
 
