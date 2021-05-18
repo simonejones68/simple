@@ -1,6 +1,6 @@
-This is the first line
+Pavel robotic toothbrush
 
-This is the second line!
+This toothbrush is safe for animals and adults
 
 And this is the third line.
 
