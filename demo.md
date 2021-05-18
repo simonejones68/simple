@@ -1,6 +1,6 @@
 Pavel robotic toothbrush
 
-This toothbrush is safe for animals and adults
+This toothbrush is safe for animals, adults and children
 
 And this is the third line.
 
