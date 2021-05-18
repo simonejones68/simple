@@ -1,6 +1,6 @@
 This is the first line
 
-This toothbrush is safe for animals and adults
+This toothbrush is safe for animals, adults and children
 
 And this is the third line.
 
