@@ -1,6 +1,6 @@
 Kavel automated toothbrush
 
-This toothbrush is safe for animals, adults and children
+This toothbrush is safe for animals, adults, children and other life forms
 
 And this is the third line.
 
