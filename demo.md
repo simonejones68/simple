@@ -6,4 +6,5 @@ And this is the third line.
 
 and a final fourth line!!
 
-the toothbrush requires [a left and right handed user]
+the toothbrush requires [a left handed user and three ears]
+
